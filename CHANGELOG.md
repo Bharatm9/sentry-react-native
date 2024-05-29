@@ -41,9 +41,9 @@
 
 ### Dependencies
 
-- Bump CLI from v2.30.4 to v2.31.2 ([#3719](https://github.com/getsentry/sentry-react-native/pull/3719))
-  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2312)
-  - [diff](https://github.com/getsentry/sentry-cli/compare/2.30.4...2.31.2)
+- Bump CLI from v2.30.4 to v2.32.1 ([#3719](https://github.com/getsentry/sentry-react-native/pull/3719), [#3843](https://github.com/getsentry/sentry-react-native/pull/3843))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2321)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/2.30.4...2.32.1)
 
 ## 5.22.3
 
